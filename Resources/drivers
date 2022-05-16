@@ -1,0 +1,121 @@
+,position,name,rarity,special_skill
+0,1,Baby Mario,Normal,Boomerang Flower
+1,2,Baby Peach,Normal,Bubble
+2,3,Baby Daisy,Normal,Bubble
+3,4,Baby Rosalina,Normal,Bubble
+4,5,Baby Luigi,Normal,Boomerang Flower
+5,6,Koopa Troopa,Normal,Triple Green Shells
+6,7,Shy Guy,Normal,Double Bob-ombs
+7,8,Dry Bones,Normal,Triple Green Shells
+8,9,Iggy,Normal,Triple Green Shells
+9,10,Larry,Normal,Boomerang Flower
+10,11,Lemmy,Normal,Bubble
+11,12,Ludwig,Normal,Dash Ring
+12,13,Morton,Normal,Giant Banana
+13,14,Roy,Normal,Double Bob-ombs
+14,15,Wendy,Normal,Heart
+15,16,Mario,Super,Fire Flower
+16,17,Peach,Super,Heart
+17,18,Yoshi,Super,Yoshi's Egg
+18,19,Daisy,Super,Heart
+19,20,Toad,Super,Triple Mushrooms
+20,21,Toadette,Super,Triple Mushrooms
+21,22,Rosalina,Super,Dash Ring
+22,23,Luigi,Super,Fire Flower
+23,24,Toad (Pit Crew),Super,Boomerang Flower
+24,25,Red Yoshi,Super,Yoshi's Egg
+25,26,Blue Yoshi,Super,Dash Ring
+26,27,Bowser,Super,Bowser's Shell
+27,28,Donkey Kong,Super,Giant Banana
+28,29,Diddy Kong,Super,Banana Barrels
+29,30,Lakitu,Super,Triple Green Shells
+30,31,Bowser Jr.,Super,Bowser's Shell
+31,32,Wario,Super,Double Bob-ombs
+32,33,Waluigi,Super,Double Bob-ombs
+33,34,King Boo,Super,Lucky Seven
+34,35,Black Shy Guy,Super,Bob-omb Cannon
+35,36,Red Koopa (Freerunning),Super,Fire Flower
+36,37,Birdo,Super,Birdo's Egg
+37,38,Pink Shy Guy,Super,Heart
+38,39,Birdo (Light Blue),Super,Birdo's Egg
+39,40,Hammer Bro,Super,Hammer
+40,41,Boomerang Bro,Super,Boomerang Flower
+41,42,Ice Bro,Super,Ice Flower
+42,43,Fire Bro,Super,Fire Flower
+43,44,Birdo (Yellow),Super,Birdo's Egg
+44,45,Monty Mole,Super,Mushroom Cannon
+45,46,Green Shy Guy,Super,Triple Green Shells
+46,47,Metal Mario,High-End,Fire Flower
+47,48,Peachette,High-End,Mushroom Cannon
+48,49,Pauline,High-End,Lucky Seven
+49,50,Mario (Musician),High-End,Double Bob-ombs
+50,51,Peach (Kimono),High-End,Mushroom Cannon
+51,52,Mario (Hakama),High-End,Coin Box
+52,53,Rosalina (Halloween),High-End,Dash Ring
+53,54,Peach (Vacation),High-End,Coin Box
+54,55,Mario (Santa),High-End,Fire Flower
+55,56,Pink Gold Peach,High-End,Coin Box
+56,57,Daisy (Holiday Cheer),High-End,Lucky Seven
+57,58,Yoshi (Reindeer),High-End,Yoshi's Egg
+58,59,Pauline (Party Time),High-End,Coin Box
+59,60,Mario (Happi),High-End,Bob-omb Cannon
+60,61,Toad (Party Time),High-End,Mushroom Cannon
+61,62,Peach (Wintertime),High-End,Dash Ring
+62,63,Penguin Luigi,High-End,Ice Flower
+63,64,Ice Mario,High-End,Ice Flower
+64,65,Baby Peach (Cherub),High-End,Heart
+65,66,Rosalina (Aurora),High-End,Ice Flower
+66,67,Mario (Classic),High-End,Triple Mushrooms
+67,68,Luigi (Classic),High-End,Lucky Seven
+68,69,Baby Rosalina (Detective),High-End,Dash Ring
+69,70,Yoshi (Egg Hunt),High-End,Yoshi's Egg
+70,71,Black Yoshi,High-End,Double Bob-ombs
+71,72,Builder Mario,High-End,Hammer
+72,73,Builder Toad,High-End,Bob-omb Cannon
+73,74,Daisy (Fairy),High-End,Heat
+74,75,Mario (Chef),High-End,Lucky Seven
+75,76,Peach (Wedding),High-End,Triple Mushrooms
+76,77,Rosalina (Swimwear),High-End,Coin Box
+77,78,Mario (Swimwear),High-End,Dash Ring
+78,79,Captain Toad,High-End,Hammer
+79,80,Toadette (Explorer),High-End,Double Bob-ombs
+80,81,Daisy (Yukata),High-End,Fire Flower
+81,82,Mario (SNES),High-End,Triple Mushrooms
+82,83,Mario (Sunshine),High-End,Giant Banana
+83,84,Mario (Halloween),High-End,Lucky Seven
+84,85,Peach (Halloween),High-End,Fire Flower
+85,86,Peach (Explorer),High-End,Bob-omb Cannon
+86,87,Builder Luigi,High-End,Hammer
+87,88,Fire Rosalina,High-End,Fire Flower
+88,89,Luigi (Lederhosen),High-End,Triple Mushrooms
+89,90,Cat Peach,High-End,Super Bell
+90,91,Cat Toad,High-End,Super Bell
+91,92,Pauline (Rose),High-End,Fire Flower
+92,93,Penguin Toad,High-End,Dash Ring
+93,94,Mario (Racing),High-End,Triple Mushrooms
+94,95,White Yoshi,High-End,Triple Mushrooms
+95,96,Baby Mario (Koala),High-End,Heart
+96,97,Builder Toadette,High-End,Hammer
+97,98,Mario (Tuxedo),High-End,Coin Box
+98,99,Dry Bowser,High-End,Bowser's Shell
+99,100,King Boo (Luigi's Mansion),High-End,Bob-omb Cannon
+100,101,Shy Guy (Pastry Chef),High-End,Mushroom Cannon
+101,102,Waluigi (Bus Driver),High-End,Triple Bananas
+102,103,Gold Koopa (Freerunning),High-End,Coin Box
+103,104,Wario (Hiker),High-End,Bob-omb Cannon
+104,105,Dry Bones (Gold),High-End,Coin Box
+105,106,Funky Kong,High-End,Banana Barrels
+106,107,Dixie Kong,High-End,Triple Bananas
+107,108,Dry Bowser (Gold),High-End,Bob-omb Cannon
+108,109,Wario (Cowboy),High-End,Fire Flower
+109,110,Nabbit,High-End,Wild West Tour
+110,111,Bowser Jr. (Pirate),High-End,Bob-omb Cannon
+111,112,King Bob-omb,High-End,Pirate Tour
+112,113,Donkey Kong Jr. (SNES),High-End,Triple Bananas
+113,114,Shy Guy (Gold),High-End,Giga Bob-omb
+114,115,King Boo (Gold),High-End,Coin Box
+115,116,Bowser (Santa),High-End,Coin Box
+116,117,Lakitu (Party Time),High-End,Lucky Seven
+117,118,Birdo (Black),High-End,Bob-omb Cannon
+118,119,Shy Guy Ninja,High-End,Boomerang Flower
+119,120,King Bob-omb (Gold),High-End,Coin Box
