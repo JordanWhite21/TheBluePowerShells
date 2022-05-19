@@ -1,0 +1,223 @@
+name,is_reverse,is_trick
+3DS Cheep Cheep Lagoon,False,False
+3DS Cheep Cheep Lagoon R,True,False
+3DS Cheep Cheep Lagoon R/T,True,True
+3DS Cheep Cheep Lagoon T,False,True
+3DS Daisy Hills,False,False
+3DS Daisy Hills R,True,False
+3DS Daisy Hills R/T,True,True
+3DS Daisy Hills T,False,True
+3DS Mario Circuit,False,False
+3DS Mario Circuit R,True,False
+3DS Mario Circuit R/T,True,True
+3DS Mario Circuit T,False,True
+3DS Neo Bowser City,False,False
+3DS Neo Bowser City R,True,False
+3DS Neo Bowser City R/T,True,True
+3DS Neo Bowser City T,False,True
+3DS Rainbow Road,False,False
+3DS Rainbow Road R,True,False
+3DS Rainbow Road R/T,True,True
+3DS Rainbow Road T,False,True
+3DS Rock Rock Mountain,False,False
+3DS Rock Rock Mountain R,True,False
+3DS Rock Rock Mountain T,False,True
+3DS Rosalina's Ice World,False,False
+3DS Rosalina's Ice World R,True,False
+3DS Rosalina's Ice World T,False,True
+3DS Shy Guy Bazaar,False,False
+3DS Shy Guy Bazaar R,True,False
+3DS Shy Guy Bazaar R/T,True,True
+3DS Shy Guy Bazaar T,False,True
+3DS Toad Circuit,False,False
+3DS Toad Circuit R,True,False
+3DS Toad Circuit R/T,True,True
+3DS Toad Circuit T,False,True
+Berlin Byways 2,False,False
+Berlin Byways 2R,True,False
+Berlin Byways 2R/T,True,True
+Berlin Byways 2T,False,True
+DS Airship Fortress,False,False
+DS Airship Fortress R,True,False
+DS Airship Fortress T,False,True
+DS DK Pass,False,False
+DS DK Pass R,True,False
+DS DK Pass R/T,True,True
+DS DK Pass T,False,True
+DS Luigi's Mansion,False,False
+DS Luigi's Mansion R,True,False
+DS Luigi's Mansion R/T,True,True
+DS Luigi's Mansion T,False,True
+DS Waluigi Pinball,False,False
+DS Waluigi Pinball R,True,False
+DS Waluigi Pinball R/T,True,True
+DS Waluigi Pinball T,False,True
+GBA Bowser's Castle 1,False,False
+GBA Bowser's Castle 1R,True,False
+GBA Bowser's Castle 1R/T,True,True
+GBA Bowser's Castle 1T,False,True
+GBA Bowser's Castle 2,False,False
+GBA Bowser's Castle 2R,True,False
+GBA Bowser's Castle 2R/T,True,True
+GBA Bowser's Castle 2T,False,True
+GBA Sunset Wilds,False,False
+GBA Sunset Wilds R,True,False
+GBA Sunset Wilds R/T,True,True
+GBA Sunset Wilds T,False,True
+GCN Dino Dino Jungle,False,False
+GCN Dino Dino Jungle R,True,False
+GCN Dino Dino Jungle R/T,True,True
+GCN Dino Dino Jungle T,False,True
+GCN Yoshi Circuit,False,False
+GCN Yoshi Circuit R,True,False
+GCN Yoshi Circuit R/T,True,True
+GCN Yoshi Circuit T,False,True
+London Loop,False,False
+London Loop 2,False,False
+London Loop 2R,True,False
+London Loop 2R/T,True,True
+London Loop 2T,False,True
+London Loop R,True,False
+London Loop R/T,True,True
+London Loop T,False,True
+Los Angeles Laps,False,False
+Los Angeles Laps R,True,False
+Los Angeles Laps R/T,True,True
+Los Angeles Laps T,False,True
+Merry Mountain,False,False
+Merry Mountain R,True,False
+Merry Mountain T,False,True
+N64 Choco Mountain,False,False
+N64 Choco Mountain R,True,False
+N64 Choco Mountain T,False,True
+N64 Frappe Snowland,False,False
+N64 Frappe Snowland R,True,False
+N64 Frappe Snowland R/T,True,True
+N64 Frappe Snowland T,False,True
+N64 Kalimari Desert,False,False
+N64 Kalimari Desert 2,False,False
+N64 Kalimari Desert 2R,True,False
+N64 Kalimari Desert 2T,False,True
+N64 Kalimari Desert R,True,False
+N64 Kalimari Desert R/T,True,True
+N64 Kalimari Desert T,False,True
+N64 Koopa Troopa Beach,False,False
+N64 Koopa Troopa Beach R,True,False
+N64 Koopa Troopa Beach R/T,True,True
+N64 Koopa Troopa Beach T,False,True
+N64 Royal Raceway,False,False
+N64 Royal Raceway R,True,False
+N64 Royal Raceway R/T,True,True
+N64 Royal Raceway T,False,True
+New York Minute,False,False
+New York Minute 2,False,False
+New York Minute 2R,True,False
+New York Minute 2R/T,True,True
+New York Minute 2T,False,True
+New York Minute 3,False,False
+New York Minute 3R,True,False
+New York Minute 3R/T,True,True
+New York Minute 3T,False,True
+New York Minute R,True,False
+New York Minute R/T,True,True
+New York Minute T,False,True
+Ninja Hideaway,False,False
+Ninja Hideaway R,True,False
+Ninja Hideaway T,False,True
+Paris Promenade,False,False
+Paris Promenade 2,False,False
+Paris Promenade 2R,True,False
+Paris Promenade 2R/T,True,True
+Paris Promenade 2T,False,True
+Paris Promenade R,True,False
+Paris Promenade R/T,True,True
+Paris Promenade T,False,True
+RMX Choco Island 1,False,False
+RMX Choco Island 1R,True,False
+RMX Choco Island 1R/T,True,True
+RMX Choco Island 1T,False,True
+RMX Choco Island 2,False,False
+RMX Choco Island 2R,True,False
+RMX Choco Island 2T,False,True
+RMX Mario Circuit 1,False,False
+RMX Mario Circuit 1R,True,False
+RMX Mario Circuit 1R/T,True,True
+RMX Mario Circuit 1T,False,True
+RMX Rainbow Road 1,False,False
+RMX Rainbow Road 1R,True,False
+RMX Rainbow Road 1R/T,True,True
+RMX Rainbow Road 1T,False,True
+RMX Rainbow Road 2,False,False
+RMX Rainbow Road 2R,True,False
+RMX Rainbow Road 2T,False,True
+SNES Choco Island 1,False,False
+SNES Choco Island 1R,True,False
+SNES Choco Island 1T,False,True
+SNES Choco Island 2,False,False
+SNES Choco Island 2R,True,False
+SNES Choco Island 2R/T,True,True
+SNES Choco Island 2T,False,True
+SNES Donut Plains 1,False,False
+SNES Donut Plains 1R,True,False
+SNES Donut Plains 1R/T,True,True
+SNES Donut Plains 1T,False,True
+SNES Donut Plains 2,False,False
+SNES Donut Plains 2R,True,False
+SNES Donut Plains 2R/T,True,True
+SNES Donut Plains 2T,False,True
+SNES Ghost Valley 1,False,False
+SNES Ghost Valley 1R,True,False
+SNES Ghost Valley 1R/T,True,True
+SNES Ghost Valley 1T,False,True
+SNES Koopa Troopa Beach 2,False,False
+SNES Koopa Troopa Beach 2R,True,False
+SNES Koopa Troopa Beach 2T,False,True
+SNES Mario Circuit 1,False,False
+SNES Mario Circuit 1R,True,False
+SNES Mario Circuit 1R/T,True,True
+SNES Mario Circuit 1T,False,True
+SNES Mario Circuit 2,False,False
+SNES Mario Circuit 2R,True,False
+SNES Mario Circuit 2R/T,True,True
+SNES Mario Circuit 2T,False,True
+SNES Mario Circuit 3,False,False
+SNES Mario Circuit 3R,True,False
+SNES Mario Circuit 3R/T,True,True
+SNES Mario Circuit 3T,False,True
+SNES Rainbow Road,False,False
+SNES Rainbow Road R,True,False
+SNES Rainbow Road R/T,True,True
+SNES Rainbow Road T,False,True
+SNES Vanilla Lake 1,False,False
+SNES Vanilla Lake 1R,True,False
+SNES Vanilla Lake 1R/T,True,True
+SNES Vanilla Lake 1T,False,True
+Sydney Sprint,False,False
+Sydney Sprint R,True,False
+Sydney Sprint R/T,True,True
+Sydney Sprint T,False,True
+Tokyo Blur,False,False
+Tokyo Blur 2,False,False
+Tokyo Blur 2R,True,False
+Tokyo Blur 2R/T,True,True
+Tokyo Blur 2T,False,True
+Tokyo Blur 3,False,False
+Tokyo Blur 3R,True,False
+Tokyo Blur 3T,False,True
+Tokyo Blur 4,False,False
+Tokyo Blur 4R,True,False
+Tokyo Blur 4R/T,True,True
+Tokyo Blur 4T,False,True
+Tokyo Blur R,True,False
+Tokyo Blur R/T,True,True
+Tokyo Blur T,False,True
+Vancouver Velocity,False,False
+Vancouver Velocity R,True,False
+Vancouver Velocity R/T,True,True
+Vancouver Velocity T,False,True
+Wii DK Summit,False,False
+Wii DK Summit R,True,False
+Wii DK Summit T,False,True
+Wii Maple Treeway,False,False
+Wii Maple Treeway R,True,False
+Wii Maple Treeway T,False,True
