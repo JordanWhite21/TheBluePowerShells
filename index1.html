@@ -7,7 +7,30 @@ html {
 body {
   margin: 0;
 }
+/* Navigation Bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+}
 /* Style the header */
 .header {
   background-color: blue;
@@ -17,9 +40,31 @@ body {
 body { 
   color: white; 
 }
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+/* drop downs */
 .dropbtn {
     background-color: red;
-    color: white;
+    color: black;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -74,7 +119,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: white;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -104,28 +149,35 @@ body {
     <div class="header">
         <h1>Welcome to Mario Kart Tour Simulator!</h1>
       </div>
-
-<h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
-
-<div class="dropdown">
-  <button class="dropbtn">Driver</button>
-  <div class="dropdown-content">
-  <a href="#">Mario</a>
-  <a href="#">Luigi</a>
-  <a href="#">Princess Peach</a>
-  </div>
-
-  <h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
-
-<div class="dropdown">
-  <button class="dropbtn">Course</button>
-  <div class="dropdown-content">
-  <a href="#">London Loop</a>
-  <a href="#">Mario Circuit</a>
-  <a href="#">Tokyo Blur</a>
-  </div>
+      <ul>
+        <li><a class="active" href="index1.html">Home</a></li>
+        <li><a href="Driversindex.html">Drivers</a></li>
+        <li><a href="Courses.html">Courses</a></li>
+      </ul>
+      <div class="row">
+        <div class="column">
+          <h2>Driver</h2>
+          <p> Select your driver!
+            <div class="dropdown">
+            <button class="dropbtn">Driver</button>
+            <div class="dropdown-content">
+            <a href="#">Mario</a>
+            <a href="#">Luigi</a>
+            <a href="#">Princess Peach</a>
+            </div></p>
+        </div>
+        <div class="row">
+          <div class="column">
+            <h2>Course</h2>
+            <p> Select your course!
+              <div class="dropdown">
+              <button class="dropbtn">Course</button>
+              <div class="dropdown-content">
+              <a href="#">London Loop</a>
+              <a href="#">Mario Circuit</a>
+              <a href="#">Tokyo Blur</a>
+              </div</p>
+          </div>
 </div>
 </body>
 </html>
