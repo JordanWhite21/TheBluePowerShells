@@ -1,0 +1,108 @@
+<head>
+    <style> 
+    html { 
+      background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3304c2dd-3223-466a-a88a-7970f65964ff/d23mm2j-2e36283e-fb2f-4312-855c-0345a44334d8.jpg/v1/fill/w_600,h_375,q_75,strp/mario_clouds_desktop_by_sadistmoi_d23mm2j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc1IiwicGF0aCI6IlwvZlwvMzMwNGMyZGQtMzIyMy00NjZhLWE4OGEtNzk3MGY2NTk2NGZmXC9kMjNtbTJqLTJlMzYyODNlLWZiMmYtNDMxMi04NTVjLTAzNDVhNDQzMzRkOC5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sWocwVnoQj36qv742yLI9YzRgB6YWRWn-pzlRn0wMao) no-repeat center fixed; 
+      background-size: cover;
+    }
+    body {
+      margin: 0;
+    }
+    /* Navigation Bar */
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: red;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: black;
+    }
+    /* Style the header */
+    .header {
+      background-color: blue;
+      padding: 20px;
+      text-align: center;
+    }
+    body { 
+      color: white; 
+    }
+    
+    /* Create three equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 15px;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+    @media screen and (max-width:600px) {
+      .column {
+        width: 100%;
+      }
+    }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.content {
+  max-width: 1000px;
+  margin: auto;
+}
+    </style>
+    <title>Mario Kart Tour Simulator</title>
+    </head>
+    <body>
+        <div class="content">
+        <div class="header">
+            <h1>Welcome to Mario Kart Tour Simulator!</h1>
+          </div>
+          <ul>
+            <li><a class="active" href="index1.html">Home</a></li>
+            <li><a href="Driversindex.html">Drivers</a></li>
+            <li><a href="Courses.html">Courses</a></li>
+          </ul>
+          <img src="https://mariokarttour.com/images/ogp/ogp-en-us.png" alt="mario" class="center"
+
+          <br>
+          <br>
+          <form action="{{ url_for('predict')}}"method="post">
+              <input type="text" name="Course" placeholder="Course" required="required" />
+              <input type="text" name="Rarity" placeholder="Rarity" required="required" />
+              <input type="text" name="specialskill" placeholder="Special Skill" required="required" />
+
+              <button type="submit" class="btn">Predict</button>
+
+              <br>
+              <br>
+             {{ prediction_text }}
+
+          </form>
+          <img src="https://pbs.twimg.com/media/D87cag8WkAo084b.png" alt="body" class="center"
+        </div>
+    </div>
+
+    </body>
+    </html>
