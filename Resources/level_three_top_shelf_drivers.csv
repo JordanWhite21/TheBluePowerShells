@@ -1,113 +1,113 @@
-course_name,driver_id_1
-3DS Cheep Cheep Lagoon R,54.0
-3DS Cheep Cheep Lagoon R/T,38.0
-3DS Daisy Hills,69.0
-3DS Daisy Hills R,71.0
-3DS Daisy Hills R/T,72.0
-3DS Daisy Hills T,57.0
-3DS Mario Circuit R,51.0
-3DS Mario Circuit R/T,64.0
-3DS Mario Circuit T,102.0
-3DS Neo Bowser City,53.0
-3DS Neo Bowser City R,119.0
-3DS Neo Bowser City R/T,29.0
-3DS Rainbow Road,77.0
-3DS Rainbow Road R,114.0
-3DS Rainbow Road R/T,63.0
-3DS Rainbow Road T,48.0
-3DS Rock Rock Mountain,60.0
-3DS Rosalina's Ice World R,88.0
-3DS Shy Guy Bazaar,81.0
-3DS Shy Guy Bazaar R,91.0
-3DS Shy Guy Bazaar R/T,19.0
-3DS Shy Guy Bazaar T,58.0
-3DS Toad Circuit,47.0
-3DS Toad Circuit R,94.0
-3DS Toad Circuit R/T,21.0
-3DS Toad Circuit T,110.0
-DS Airship Fortress,115.0
-DS Airship Fortress R,115.0
-DS Airship Fortress T,89.0
-DS DK Pass R,59.0
-DS DK Pass R/T,55.0
-DS DK Pass T,65.0
-DS Luigi's Mansion R,63.0
-DS Luigi's Mansion R/T,23.0
-DS Luigi's Mansion T,109.0
-DS Waluigi Pinball,52.0
-DS Waluigi Pinball R,33.0
-DS Waluigi Pinball R/T,106.0
-DS Waluigi Pinball T,89.0
-GBA Bowser's Castle 1,104.0
-GBA Bowser's Castle 1R,79.0
-GBA Bowser's Castle 1R/T,59.0
-GBA Bowser's Castle 1T,31.0
-GBA Bowser's Castle 2,100.0
-GBA Bowser's Castle 2R,105.0
-GBA Bowser's Castle 2R/T,30.0
-GBA Bowser's Castle 2T,99.0
-GBA Sunset Wilds R,118.0
-GBA Sunset Wilds R/T,97.0
-GCN Dino Dino Jungle,80.0
-GCN Dino Dino Jungle R/T,40.0
-GCN Dino Dino Jungle T,43.0
-GCN Yoshi Circuit,71.0
-GCN Yoshi Circuit R,82.0
-GCN Yoshi Circuit R/T,16.0
-GCN Yoshi Circuit T,26.0
-Merry Mountain,88.0
-N64 Choco Mountain R,119.0
-N64 Choco Mountain T,83.0
-N64 Frappe Snowland,66.0
-N64 Frappe Snowland R,68.0
-N64 Frappe Snowland R/T,17.0
-N64 Frappe Snowland T,93.0
-N64 Kalimari Desert,84.0
-N64 Kalimari Desert 2R,86.0
-N64 Kalimari Desert 2T,83.0
-N64 Kalimari Desert R/T,27.0
-N64 Kalimari Desert T,41.0
-N64 Koopa Troopa Beach R,96.0
-N64 Koopa Troopa Beach R/T,39.0
-N64 Koopa Troopa Beach T,42.0
-N64 Royal Raceway,107.0
-N64 Royal Raceway R,90.0
-Paris Promenade 2,91.0
-RMX Choco Island 1,92.0
-RMX Choco Island 1R,114.0
-RMX Choco Island 1T,62.0
-RMX Choco Island 2T,96.0
-RMX Mario Circuit 1R,95.0
-RMX Mario Circuit 1R/T,69.0
-RMX Mario Circuit 1T,94.0
-RMX Rainbow Road 1T,117.0
-RMX Rainbow Road 2R,117.0
-SNES Choco Island 2R,57.0
-SNES Choco Island 2R/T,107.0
-SNES Choco Island 2T,34.0
-SNES Donut Plains 1,113.0
-SNES Donut Plains 1R,25.0
-SNES Donut Plains 1T,75.0
-SNES Donut Plains 2R,120.0
-SNES Ghost Valley 1R,112.0
-SNES Ghost Valley 1R/T,37.0
-SNES Koopa Troopa Beach 2R,64.0
-SNES Koopa Troopa Beach 2T,46.0
-SNES Mario Circuit 1,51.0
-SNES Mario Circuit 1R/T,61.0
-SNES Mario Circuit 1T,20.0
-SNES Mario Circuit 2,75.0
-SNES Mario Circuit 2R,67.0
-SNES Mario Circuit 2T,70.0
-SNES Mario Circuit 3R,50.0
-SNES Mario Circuit 3R/T,24.0
-SNES Mario Circuit 3T,56.0
-SNES Rainbow Road,105.0
-SNES Rainbow Road R,22.0
-SNES Rainbow Road R/T,49.0
-SNES Rainbow Road T,52.0
-SNES Vanilla Lake 1,67.0
-SNES Vanilla Lake 1R,93.0
-SNES Vanilla Lake 1R/T,28.0
-Wii Maple Treeway R,85.0
-Wii Maple Treeway T,90.0
+course_name,driver_id,rarity,special_skill
+3DS Cheep Cheep Lagoon R,54.0,High-End,Coin Box
+3DS Cheep Cheep Lagoon R/T,38.0,Super,Heart
+3DS Daisy Hills,69.0,High-End,Dash Ring
+3DS Daisy Hills R,71.0,High-End,Double Bob-ombs
+3DS Daisy Hills R/T,72.0,High-End,Hammer
+3DS Daisy Hills T,57.0,High-End,Lucky Seven
+3DS Mario Circuit R,51.0,High-End,Mushroom Cannon
+3DS Mario Circuit R/T,64.0,High-End,Ice Flower
+3DS Mario Circuit T,102.0,High-End,Triple Bananas
+3DS Neo Bowser City,53.0,High-End,Dash Ring
+3DS Neo Bowser City R,119.0,High-End,Boomerang Flower
+3DS Neo Bowser City R/T,29.0,Super,Banana Barrels
+3DS Rainbow Road,77.0,High-End,Coin Box
+3DS Rainbow Road R,114.0,High-End,Giga Bob-omb
+3DS Rainbow Road R/T,63.0,High-End,Ice Flower
+3DS Rainbow Road T,48.0,High-End,Mushroom Cannon
+3DS Rock Rock Mountain,60.0,High-End,Bob-omb Cannon
+3DS Rosalina's Ice World R,88.0,High-End,Fire Flower
+3DS Shy Guy Bazaar,81.0,High-End,Fire Flower
+3DS Shy Guy Bazaar R,91.0,High-End,Super Bell
+3DS Shy Guy Bazaar R/T,19.0,Super,Heart
+3DS Shy Guy Bazaar T,58.0,High-End,Yoshi's Egg
+3DS Toad Circuit,47.0,High-End,Fire Flower
+3DS Toad Circuit R,94.0,High-End,Triple Mushrooms
+3DS Toad Circuit R/T,21.0,Super,Triple Mushrooms
+3DS Toad Circuit T,110.0,High-End,Wild West Tour
+DS Airship Fortress,115.0,High-End,Coin Box
+DS Airship Fortress R,115.0,High-End,Coin Box
+DS Airship Fortress T,89.0,High-End,Triple Mushrooms
+DS DK Pass R,59.0,High-End,Coin Box
+DS DK Pass R/T,55.0,High-End,Fire Flower
+DS DK Pass T,65.0,High-End,Heart
+DS Luigi's Mansion R,63.0,High-End,Ice Flower
+DS Luigi's Mansion R/T,23.0,Super,Fire Flower
+DS Luigi's Mansion T,109.0,High-End,Fire Flower
+DS Waluigi Pinball,52.0,High-End,Coin Box
+DS Waluigi Pinball R,33.0,Super,Double Bob-ombs
+DS Waluigi Pinball R/T,106.0,High-End,Banana Barrels
+DS Waluigi Pinball T,89.0,High-End,Triple Mushrooms
+GBA Bowser's Castle 1,104.0,High-End,Bob-omb Cannon
+GBA Bowser's Castle 1R,79.0,High-End,Hammer
+GBA Bowser's Castle 1R/T,59.0,High-End,Coin Box
+GBA Bowser's Castle 1T,31.0,Super,Bowser's Shell
+GBA Bowser's Castle 2,100.0,High-End,Bob-omb Cannon
+GBA Bowser's Castle 2R,105.0,High-End,Coin Box
+GBA Bowser's Castle 2R/T,30.0,Super,Triple Green Shells
+GBA Bowser's Castle 2T,99.0,High-End,Bowser's Shell
+GBA Sunset Wilds R,118.0,High-End,Bob-omb Cannon
+GBA Sunset Wilds R/T,97.0,High-End,Hammer
+GCN Dino Dino Jungle,80.0,High-End,Double Bob-ombs
+GCN Dino Dino Jungle R/T,40.0,Super,Hammer
+GCN Dino Dino Jungle T,43.0,Super,Fire Flower
+GCN Yoshi Circuit,71.0,High-End,Double Bob-ombs
+GCN Yoshi Circuit R,82.0,High-End,Triple Mushrooms
+GCN Yoshi Circuit R/T,16.0,Super,Fire Flower
+GCN Yoshi Circuit T,26.0,Super,Dash Ring
+Merry Mountain,88.0,High-End,Fire Flower
+N64 Choco Mountain R,119.0,High-End,Boomerang Flower
+N64 Choco Mountain T,83.0,High-End,Giant Banana
+N64 Frappe Snowland,66.0,High-End,Ice Flower
+N64 Frappe Snowland R,68.0,High-End,Lucky Seven
+N64 Frappe Snowland R/T,17.0,Super,Heart
+N64 Frappe Snowland T,93.0,High-End,Dash Ring
+N64 Kalimari Desert,84.0,High-End,Lucky Seven
+N64 Kalimari Desert 2R,86.0,High-End,Bob-omb Cannon
+N64 Kalimari Desert 2T,83.0,High-End,Giant Banana
+N64 Kalimari Desert R/T,27.0,Super,Bowser's Shell
+N64 Kalimari Desert T,41.0,Super,Boomerang Flower
+N64 Koopa Troopa Beach R,96.0,High-End,Heart
+N64 Koopa Troopa Beach R/T,39.0,Super,Birdo's Egg
+N64 Koopa Troopa Beach T,42.0,Super,Ice Flower
+N64 Royal Raceway,107.0,High-End,Triple Bananas
+N64 Royal Raceway R,90.0,High-End,Super Bell
+Paris Promenade 2,91.0,High-End,Super Bell
+RMX Choco Island 1,92.0,High-End,Fire Flower
+RMX Choco Island 1R,114.0,High-End,Giga Bob-omb
+RMX Choco Island 1T,62.0,High-End,Dash Ring
+RMX Choco Island 2T,96.0,High-End,Heart
+RMX Mario Circuit 1R,95.0,High-End,Triple Mushrooms
+RMX Mario Circuit 1R/T,69.0,High-End,Dash Ring
+RMX Mario Circuit 1T,94.0,High-End,Triple Mushrooms
+RMX Rainbow Road 1T,117.0,High-End,Lucky Seven
+RMX Rainbow Road 2R,117.0,High-End,Lucky Seven
+SNES Choco Island 2R,57.0,High-End,Lucky Seven
+SNES Choco Island 2R/T,107.0,High-End,Triple Bananas
+SNES Choco Island 2T,34.0,Super,Lucky Seven
+SNES Donut Plains 1,113.0,High-End,Triple Bananas
+SNES Donut Plains 1R,25.0,Super,Yoshi's Egg
+SNES Donut Plains 1T,75.0,High-End,Lucky Seven
+SNES Donut Plains 2R,120.0,High-End,Coin Box
+SNES Ghost Valley 1R,112.0,High-End,Pirate Tour
+SNES Ghost Valley 1R/T,37.0,Super,Birdo's Egg
+SNES Koopa Troopa Beach 2R,64.0,High-End,Ice Flower
+SNES Koopa Troopa Beach 2T,46.0,Super,Triple Green Shells
+SNES Mario Circuit 1,51.0,High-End,Mushroom Cannon
+SNES Mario Circuit 1R/T,61.0,High-End,Mushroom Cannon
+SNES Mario Circuit 1T,20.0,Super,Triple Mushrooms
+SNES Mario Circuit 2,75.0,High-End,Lucky Seven
+SNES Mario Circuit 2R,67.0,High-End,Triple Mushrooms
+SNES Mario Circuit 2T,70.0,High-End,Yoshi's Egg
+SNES Mario Circuit 3R,50.0,High-End,Double Bob-ombs
+SNES Mario Circuit 3R/T,24.0,Super,Boomerang Flower
+SNES Mario Circuit 3T,56.0,High-End,Coin Box
+SNES Rainbow Road,105.0,High-End,Coin Box
+SNES Rainbow Road R,22.0,Super,Dash Ring
+SNES Rainbow Road R/T,49.0,High-End,Lucky Seven
+SNES Rainbow Road T,52.0,High-End,Coin Box
+SNES Vanilla Lake 1,67.0,High-End,Triple Mushrooms
+SNES Vanilla Lake 1R,93.0,High-End,Dash Ring
+SNES Vanilla Lake 1R/T,28.0,Super,Giant Banana
+Wii Maple Treeway R,85.0,High-End,Fire Flower
+Wii Maple Treeway T,90.0,High-End,Super Bell
