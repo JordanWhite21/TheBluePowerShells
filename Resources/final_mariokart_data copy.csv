@@ -1,0 +1,541 @@
+course_name,driver_id,name,special_skill,rarity,win_loss
+DS Waluigi Pinball,1,Baby Mario,Normal,Boomerang Flower,1
+SNES Mario Circuit 1T,1,Baby Mario,Normal,Boomerang Flower,1
+3DS Cheep Cheep Lagoon,2,Baby Peach,Normal,Bubble,1
+3DS Daisy Hills R/T,2,Baby Peach,Normal,Bubble,1
+3DS Daisy Hills T,3,Baby Daisy,Normal,Bubble,1
+SNES Choco Island 2T,3,Baby Daisy,Normal,Bubble,1
+SNES Rainbow Road T,4,Baby Rosalina,Normal,Bubble,1
+DS Luigi's Mansion R,5,Baby Luigi,Normal,Boomerang Flower,1
+DS Luigi's Mansion R/T,5,Baby Luigi,Normal,Boomerang Flower,1
+Paris Promenade 2R,5,Baby Luigi,Normal,Boomerang Flower,1
+3DS Cheep Cheep Lagoon R/T,6,Koopa Troopa,Normal,Triple Green Shells,1
+N64 Koopa Troopa Beach,6,Koopa Troopa,Normal,Triple Green Shells,1
+3DS Shy Guy Bazaar,7,Shy Guy,Normal,Double Bob-ombs,1
+3DS Shy Guy Bazaar T,8,Dry Bones,Normal,Triple Green Shells,1
+GBA Bowser's Castle 1T,8,Dry Bones,Normal,Triple Green Shells,1
+SNES Choco Island 2R,9,Iggy,Normal,Triple Green Shells,1
+N64 Kalimari Desert R,10,Larry,Normal,Boomerang Flower,1
+N64 Kalimari Desert R/T,10,Larry,Normal,Boomerang Flower,1
+3DS Cheep Cheep Lagoon R,11,Lemmy,Normal,Bubble,1
+3DS Rainbow Road,11,Lemmy,Normal,Bubble,1
+SNES Mario Circuit 2T,11,Lemmy,Normal,Bubble,1
+SNES Rainbow Road R,11,Lemmy,Normal,Bubble,1
+SNES Vanilla Lake 1,11,Lemmy,Normal,Bubble,1
+3DS Neo Bowser City R/T,12,Ludwig,Normal,Dash Ring,1
+GBA Bowser's Castle 1,12,Ludwig,Normal,Dash Ring,1
+N64 Kalimari Desert,12,Ludwig,Normal,Dash Ring,1
+N64 Kalimari Desert R/T,12,Ludwig,Normal,Dash Ring,0
+N64 Kalimari Desert,13,Morton,Normal,Giant Banana,0
+GCN Dino Dino Jungle R/T,14,Roy,Normal,Double Bob-ombs,1
+N64 Kalimari Desert T,14,Roy,Normal,Double Bob-ombs,1
+SNES Choco Island 2,15,Wendy,Normal,Heart,1
+3DS Cheep Cheep Lagoon T,16,Mario,Super,Fire Flower,1
+3DS Mario Circuit T,16,Mario,Super,Fire Flower,1
+RMX Rainbow Road 2R,16,Mario,Super,Fire Flower,1
+SNES Mario Circuit 1,16,Mario,Super,Fire Flower,1
+SNES Mario Circuit 3R/T,16,Mario,Super,Fire Flower,1
+N64 Koopa Troopa Beach,16,Mario,Super,Fire Flower,0
+GCN Yoshi Circuit R,17,Peach,Super,Heart,1
+N64 Koopa Troopa Beach R,17,Peach,Super,Heart,1
+N64 Koopa Troopa Beach T,17,Peach,Super,Heart,1
+DS Luigi's Mansion R,17,Peach,Super,Heart,0
+SNES Mario Circuit 1T,17,Peach,Super,Heart,0
+SNES Mario Circuit 3R/T,17,Peach,Super,Heart,0
+3DS Rock Rock Mountain,18,Yoshi,Super,Yoshi's Egg,1
+GCN Yoshi Circuit,18,Yoshi,Super,Yoshi's Egg,1
+GCN Yoshi Circuit R/T,18,Yoshi,Super,Yoshi's Egg,1
+GCN Yoshi Circuit T,18,Yoshi,Super,Yoshi's Egg,1
+RMX Choco Island 1T,18,Yoshi,Super,Yoshi's Egg,1
+3DS Daisy Hills,19,Daisy,Super,Heart,1
+3DS Shy Guy Bazaar R,19,Daisy,Super,Heart,1
+3DS Cheep Cheep Lagoon R,19,Daisy,Super,Heart,0
+3DS Daisy Hills T,19,Daisy,Super,Heart,0
+RMX Choco Island 1T,19,Daisy,Super,Heart,0
+3DS Mario Circuit R,20,Toad,Super,Triple Mushrooms,1
+3DS Rock Rock Mountain T,20,Toad,Super,Triple Mushrooms,1
+3DS Toad Circuit,20,Toad,Super,Triple Mushrooms,1
+3DS Toad Circuit R/T,20,Toad,Super,Triple Mushrooms,1
+SNES Donut Plains 1R,20,Toad,Super,Triple Mushrooms,1
+SNES Mario Circuit 1R/T,20,Toad,Super,Triple Mushrooms,1
+3DS Daisy Hills R,21,Toadette,Super,Triple Mushrooms,1
+SNES Mario Circuit 3R,21,Toadette,Super,Triple Mushrooms,1
+3DS Toad Circuit,21,Toadette,Super,Triple Mushrooms,0
+DS DK Pass R,22,Rosalina,Super,Dash Ring,1
+New York Minute 3T,22,Rosalina,Super,Dash Ring,1
+SNES Rainbow Road,22,Rosalina,Super,Dash Ring,1
+SNES Rainbow Road R/T,22,Rosalina,Super,Dash Ring,1
+3DS Cheep Cheep Lagoon,22,Rosalina,Super,Dash Ring,0
+3DS Mario Circuit R,22,Rosalina,Super,Dash Ring,0
+RMX Rainbow Road 2R,22,Rosalina,Super,Dash Ring,0
+DS DK Pass T,23,Luigi,Super,Fire Flower,1
+DS Luigi's Mansion,23,Luigi,Super,Fire Flower,1
+DS Luigi's Mansion T,23,Luigi,Super,Fire Flower,1
+DS Waluigi Pinball R/T,23,Luigi,Super,Fire Flower,1
+New York Minute 3R,23,Luigi,Super,Fire Flower,1
+RMX Mario Circuit 1R/T,23,Luigi,Super,Fire Flower,1
+SNES Ghost Valley 1,23,Luigi,Super,Fire Flower,1
+3DS Cheep Cheep Lagoon T,23,Luigi,Super,Fire Flower,0
+3DS Rosalina's Ice World R,24,Toad (Pit Crew),Super,Boomerang Flower,1
+SNES Mario Circuit 2,24,Toad (Pit Crew),Super,Boomerang Flower,1
+SNES Mario Circuit 3,24,Toad (Pit Crew),Super,Boomerang Flower,1
+Tokyo Blur,24,Toad (Pit Crew),Super,Boomerang Flower,1
+3DS Mario Circuit T,24,Toad (Pit Crew),Super,Boomerang Flower,0
+SNES Mario Circuit 1,24,Toad (Pit Crew),Super,Boomerang Flower,0
+SNES Mario Circuit 2T,24,Toad (Pit Crew),Super,Boomerang Flower,0
+London Loop T,25,Red Yoshi,Super,Yoshi's Egg,1
+SNES Koopa Troopa Beach 2R,25,Red Yoshi,Super,Yoshi's Egg,1
+Wii Maple Treeway R,25,Red Yoshi,Super,Yoshi's Egg,1
+3DS Daisy Hills R/T,25,Red Yoshi,Super,Yoshi's Egg,0
+3DS Rock Rock Mountain T,25,Red Yoshi,Super,Yoshi's Egg,0
+GCN Dino Dino Jungle R/T,25,Red Yoshi,Super,Yoshi's Egg,0
+GCN Yoshi Circuit,25,Red Yoshi,Super,Yoshi's Egg,0
+GCN Yoshi Circuit R/T,25,Red Yoshi,Super,Yoshi's Egg,0
+GBA Sunset Wilds,26,Blue Yoshi,Super,Dash Ring,1
+RMX Mario Circuit 1,26,Blue Yoshi,Super,Dash Ring,1
+Tokyo Blur 4,26,Blue Yoshi,Super,Dash Ring,1
+DS Waluigi Pinball,26,Blue Yoshi,Super,Dash Ring,0
+3DS Neo Bowser City,27,Bowser,Super,Bowser's Shell,1
+3DS Rainbow Road T,27,Bowser,Super,Bowser's Shell,1
+GBA Bowser's Castle 2R,27,Bowser,Super,Bowser's Shell,1
+GBA Bowser's Castle 2R/T,27,Bowser,Super,Bowser's Shell,1
+GCN Dino Dino Jungle T,27,Bowser,Super,Bowser's Shell,1
+GBA Bowser's Castle 1,27,Bowser,Super,Bowser's Shell,0
+GBA Bowser's Castle 1T,27,Bowser,Super,Bowser's Shell,0
+DS DK Pass,28,Donkey Kong,Super,Giant Banana,1
+DS Waluigi Pinball R,28,Donkey Kong,Super,Giant Banana,1
+GCN Dino Dino Jungle,28,Donkey Kong,Super,Giant Banana,1
+3DS Rock Rock Mountain,28,Donkey Kong,Super,Giant Banana,0
+New York Minute 3R,28,Donkey Kong,Super,Giant Banana,0
+3DS Rock Rock Mountain R,29,Diddy Kong,Super,Banana Barrels,1
+3DS Toad Circuit R,29,Diddy Kong,Super,Banana Barrels,1
+GCN Dino Dino Jungle R,29,Diddy Kong,Super,Banana Barrels,1
+3DS Toad Circuit T,30,Lakitu,Super,Triple Green Shells,1
+DS Waluigi Pinball T,30,Lakitu,Super,Triple Green Shells,1
+Merry Mountain R,30,Lakitu,Super,Triple Green Shells,1
+Paris Promenade T,30,Lakitu,Super,Triple Green Shells,1
+SNES Ghost Valley 1T,30,Lakitu,Super,Triple Green Shells,1
+SNES Mario Circuit 3T,30,Lakitu,Super,Triple Green Shells,1
+Tokyo Blur 3R,30,Lakitu,Super,Triple Green Shells,1
+SNES Mario Circuit 2T,30,Lakitu,Super,Triple Green Shells,0
+3DS Neo Bowser City T,31,Bowser Jr.,Super,Bowser's Shell,1
+SNES Vanilla Lake 1T,31,Bowser Jr.,Super,Bowser's Shell,1
+3DS Neo Bowser City,31,Bowser Jr.,Super,Bowser's Shell,0
+GBA Bowser's Castle 2R/T,31,Bowser Jr.,Super,Bowser's Shell,0
+Paris Promenade T,31,Bowser Jr.,Super,Bowser's Shell,0
+SNES Choco Island 2R,31,Bowser Jr.,Super,Bowser's Shell,0
+3DS Cheep Cheep Lagoon T,31,Bowser Jr.,Super,Bowser's Shell,0
+N64 Kalimari Desert R/T,31,Bowser Jr.,Super,Bowser's Shell,0
+DS DK Pass T,32,Wario,Super,Double Bob-ombs,0
+N64 Kalimari Desert R,32,Wario,Super,Double Bob-ombs,0
+N64 Kalimari Desert T,32,Wario,Super,Double Bob-ombs,0
+SNES Choco Island 2T,32,Wario,Super,Double Bob-ombs,0
+SNES Koopa Troopa Beach 2R,32,Wario,Super,Double Bob-ombs,0
+3DS Neo Bowser City R,33,Waluigi,Super,Double Bob-ombs,1
+3DS Rainbow Road R,33,Waluigi,Super,Double Bob-ombs,1
+3DS Shy Guy Bazaar R/T,33,Waluigi,Super,Double Bob-ombs,1
+GBA Bowser's Castle 1R/T,33,Waluigi,Super,Double Bob-ombs,1
+3DS Rock Rock Mountain,33,Waluigi,Super,Double Bob-ombs,0
+DS Waluigi Pinball,33,Waluigi,Super,Double Bob-ombs,0
+SNES Ghost Valley 1R,34,King Boo,Super,Lucky Seven,1
+SNES Ghost Valley 1R/T,34,King Boo,Super,Lucky Seven,1
+3DS Shy Guy Bazaar,34,King Boo,Super,Lucky Seven,0
+DS Luigi's Mansion,34,King Boo,Super,Lucky Seven,0
+DS Luigi's Mansion R/T,34,King Boo,Super,Lucky Seven,0
+GBA Sunset Wilds R,35,Black Shy Guy,Super,Bob-omb Cannon,1
+SNES Mario Circuit 1R,35,Black Shy Guy,Super,Bob-omb Cannon,1
+DS DK Pass R,35,Black Shy Guy,Super,Bob-omb Cannon,0
+SNES Ghost Valley 1R/T,35,Black Shy Guy,Super,Bob-omb Cannon,0
+SNES Ghost Valley 1T,35,Black Shy Guy,Super,Bob-omb Cannon,0
+3DS Cheep Cheep Lagoon,35,Black Shy Guy,Super,Bob-omb Cannon,0
+London Loop,36,Red Koopa (Freerunning),Super,Fire Flower,1
+N64 Koopa Troopa Beach R/T,36,Red Koopa (Freerunning),Super,Fire Flower,1
+SNES Donut Plains 1T,36,Red Koopa (Freerunning),Super,Fire Flower,1
+3DS Toad Circuit T,36,Red Koopa (Freerunning),Super,Fire Flower,0
+SNES Mario Circuit 1R/T,36,Red Koopa (Freerunning),Super,Fire Flower,0
+3DS Cheep Cheep Lagoon R,36,Red Koopa (Freerunning),Super,Fire Flower,0
+SNES Koopa Troopa Beach 2R,36,Red Koopa (Freerunning),Super,Fire Flower,0
+SNES Mario Circuit 1,36,Red Koopa (Freerunning),Super,Fire Flower,0
+GBA Bowser's Castle 2T,37,Birdo,Super,Birdo's Egg,1
+N64 Frappe Snowland R/T,37,Birdo,Super,Birdo's Egg,1
+SNES Choco Island 1T,37,Birdo,Super,Birdo's Egg,1
+SNES Choco Island 2R/T,37,Birdo,Super,Birdo's Egg,1
+SNES Donut Plains 2R,37,Birdo,Super,Birdo's Egg,1
+Vancouver Velocity T,37,Birdo,Super,Birdo's Egg,1
+3DS Rainbow Road T,37,Birdo,Super,Birdo's Egg,0
+GBA Bowser's Castle 2R,37,Birdo,Super,Birdo's Egg,0
+GCN Dino Dino Jungle R/T,37,Birdo,Super,Birdo's Egg,0
+London Loop 2R/T,38,Pink Shy Guy,Super,Heart,1
+N64 Frappe Snowland,38,Pink Shy Guy,Super,Heart,1
+Paris Promenade 2T,38,Pink Shy Guy,Super,Heart,1
+Paris Promenade R,38,Pink Shy Guy,Super,Heart,1
+3DS Shy Guy Bazaar R/T,38,Pink Shy Guy,Super,Heart,0
+3DS Shy Guy Bazaar T,38,Pink Shy Guy,Super,Heart,0
+SNES Ghost Valley 1,38,Pink Shy Guy,Super,Heart,0
+N64 Kalimari Desert T,38,Pink Shy Guy,Super,Heart,0
+N64 Frappe Snowland T,39,Birdo (Light Blue),Super,Birdo's Egg,1
+SNES Mario Circuit 2R/T,39,Birdo (Light Blue),Super,Birdo's Egg,1
+3DS Rainbow Road,39,Birdo (Light Blue),Super,Birdo's Egg,0
+SNES Ghost Valley 1R,39,Birdo (Light Blue),Super,Birdo's Egg,0
+SNES Mario Circuit 3T,39,Birdo (Light Blue),Super,Birdo's Egg,0
+DS Airship Fortress T,40,Hammer Bro,Super,Hammer,1
+GBA Bowser's Castle 1R/T,40,Hammer Bro,Super,Hammer,0
+Paris Promenade 2R,40,Hammer Bro,Super,Hammer,0
+SNES Donut Plains 1T,40,Hammer Bro,Super,Hammer,0
+SNES Mario Circuit 3R,40,Hammer Bro,Super,Hammer,0
+3DS Toad Circuit,40,Hammer Bro,Super,Hammer,0
+N64 Kalimari Desert,40,Hammer Bro,Super,Hammer,0
+SNES Mario Circuit 3R/T,40,Hammer Bro,Super,Hammer,0
+RMX Mario Circuit 1R,41,Boomerang Bro,Super,Boomerang Flower,1
+RMX Mario Circuit 1T,41,Boomerang Bro,Super,Boomerang Flower,1
+SNES Donut Plains 1,41,Boomerang Bro,Super,Boomerang Flower,1
+3DS Cheep Cheep Lagoon R/T,41,Boomerang Bro,Super,Boomerang Flower,0
+3DS Rock Rock Mountain T,41,Boomerang Bro,Super,Boomerang Flower,0
+DS DK Pass R/T,42,Ice Bro,Super,Ice Flower,1
+GBA Bowser's Castle 2,42,Ice Bro,Super,Ice Flower,1
+N64 Frappe Snowland R,42,Ice Bro,Super,Ice Flower,1
+SNES Vanilla Lake 1R,42,Ice Bro,Super,Ice Flower,1
+SNES Vanilla Lake 1R/T,42,Ice Bro,Super,Ice Flower,1
+Vancouver Velocity R,42,Ice Bro,Super,Ice Flower,1
+N64 Frappe Snowland,42,Ice Bro,Super,Ice Flower,0
+N64 Frappe Snowland T,42,Ice Bro,Super,Ice Flower,0
+3DS Neo Bowser City,42,Ice Bro,Super,Ice Flower,0
+DS Airship Fortress R,43,Fire Bro,Super,Fire Flower,1
+3DS Shy Guy Bazaar R,43,Fire Bro,Super,Fire Flower,0
+GBA Bowser's Castle 2,43,Fire Bro,Super,Fire Flower,0
+GBA Bowser's Castle 2T,43,Fire Bro,Super,Fire Flower,0
+GBA Bowser's Castle 1R/T,43,Fire Bro,Super,Fire Flower,0
+GBA Bowser's Castle 2R,43,Fire Bro,Super,Fire Flower,0
+GBA Bowser's Castle 2R/T,43,Fire Bro,Super,Fire Flower,0
+N64 Kalimari Desert 2T,44,Birdo (Yellow),Super,Birdo's Egg,1
+RMX Choco Island 1,44,Birdo (Yellow),Super,Birdo's Egg,1
+Paris Promenade R,44,Birdo (Yellow),Super,Birdo's Egg,0
+3DS Shy Guy Bazaar R/T,44,Birdo (Yellow),Super,Birdo's Egg,0
+SNES Koopa Troopa Beach 2,45,Monty Mole,Super,Mushroom Cannon,1
+GCN Dino Dino Jungle R,45,Monty Mole,Super,Mushroom Cannon,0
+SNES Donut Plains 1,45,Monty Mole,Super,Mushroom Cannon,0
+SNES Donut Plains 1R,45,Monty Mole,Super,Mushroom Cannon,0
+GBA Bowser's Castle 2,45,Monty Mole,Super,Mushroom Cannon,0
+RMX Choco Island 1T,45,Monty Mole,Super,Mushroom Cannon,0
+SNES Mario Circuit 1T,45,Monty Mole,Super,Mushroom Cannon,0
+GCN Dino Dino Jungle T,46,Green Shy Guy,Super,Triple Green Shells,0
+GCN Yoshi Circuit R,46,Green Shy Guy,Super,Triple Green Shells,0
+Wii Maple Treeway R,46,Green Shy Guy,Super,Triple Green Shells,0
+GCN Yoshi Circuit,46,Green Shy Guy,Super,Triple Green Shells,0
+N64 Koopa Troopa Beach,46,Green Shy Guy,Super,Triple Green Shells,0
+RMX Rainbow Road 1R,47,Metal Mario,High-End,Fire Flower,1
+SNES Mario Circuit 2R,47,Metal Mario,High-End,Fire Flower,1
+Tokyo Blur 4R,47,Metal Mario,High-End,Fire Flower,1
+3DS Rock Rock Mountain R,47,Metal Mario,High-End,Fire Flower,0
+N64 Frappe Snowland R,47,Metal Mario,High-End,Fire Flower,0
+RMX Mario Circuit 1,47,Metal Mario,High-End,Fire Flower,0
+SNES Rainbow Road,47,Metal Mario,High-End,Fire Flower,0
+SNES Rainbow Road T,47,Metal Mario,High-End,Fire Flower,0
+3DS Shy Guy Bazaar,47,Metal Mario,High-End,Fire Flower,0
+DS DK Pass T,47,Metal Mario,High-End,Fire Flower,0
+3DS Mario Circuit R/T,48,Peachette,High-End,Mushroom Cannon,1
+N64 Royal Raceway,48,Peachette,High-End,Mushroom Cannon,1
+SNES Choco Island 1R,48,Peachette,High-End,Mushroom Cannon,1
+SNES Donut Plains 1R/T,48,Peachette,High-End,Mushroom Cannon,1
+DS Waluigi Pinball T,48,Peachette,High-End,Mushroom Cannon,0
+3DS Toad Circuit T,48,Peachette,High-End,Mushroom Cannon,0
+GCN Dino Dino Jungle R,48,Peachette,High-End,Mushroom Cannon,0
+New York Minute 3,49,Pauline,High-End,Lucky Seven,1
+SNES Choco Island 1,49,Pauline,High-End,Lucky Seven,1
+DS Waluigi Pinball R/T,49,Pauline,High-End,Lucky Seven,0
+London Loop T,49,Pauline,High-End,Lucky Seven,0
+New York Minute 3T,49,Pauline,High-End,Lucky Seven,0
+3DS Daisy Hills R/T,49,Pauline,High-End,Lucky Seven,0
+DS Luigi's Mansion R,49,Pauline,High-End,Lucky Seven,0
+DS Waluigi Pinball T,49,Pauline,High-End,Lucky Seven,0
+RMX Rainbow Road 1T,50,Mario (Musician),High-End,Double Bob-ombs,1
+3DS Daisy Hills,50,Mario (Musician),High-End,Double Bob-ombs,0
+DS Waluigi Pinball R,50,Mario (Musician),High-End,Double Bob-ombs,0
+SNES Mario Circuit 3,50,Mario (Musician),High-End,Double Bob-ombs,0
+GCN Yoshi Circuit R,50,Mario (Musician),High-End,Double Bob-ombs,0
+New York Minute 3R,50,Mario (Musician),High-End,Double Bob-ombs,0
+SNES Donut Plains 1R,50,Mario (Musician),High-End,Double Bob-ombs,0
+N64 Royal Raceway R,51,Peach (Kimono),High-End,Mushroom Cannon,1
+Tokyo Blur 3T,51,Peach (Kimono),High-End,Mushroom Cannon,1
+Tokyo Blur R,51,Peach (Kimono),High-End,Mushroom Cannon,1
+Tokyo Blur T,51,Peach (Kimono),High-End,Mushroom Cannon,1
+3DS Daisy Hills R,51,Peach (Kimono),High-End,Mushroom Cannon,0
+SNES Donut Plains 1R/T,51,Peach (Kimono),High-End,Mushroom Cannon,0
+SNES Mario Circuit 2R,51,Peach (Kimono),High-End,Mushroom Cannon,0
+RMX Rainbow Road 2R,51,Peach (Kimono),High-End,Mushroom Cannon,0
+SNES Mario Circuit 3T,51,Peach (Kimono),High-End,Mushroom Cannon,0
+RMX Mario Circuit 1R/T,52,Mario (Hakama),High-End,Coin Box,0
+SNES Mario Circuit 2,52,Mario (Hakama),High-End,Coin Box,0
+Tokyo Blur,52,Mario (Hakama),High-End,Coin Box,0
+Tokyo Blur 3R,52,Mario (Hakama),High-End,Coin Box,0
+Tokyo Blur 3T,52,Mario (Hakama),High-End,Coin Box,0
+3DS Mario Circuit T,52,Mario (Hakama),High-End,Coin Box,0
+DS Waluigi Pinball R,52,Mario (Hakama),High-End,Coin Box,0
+GBA Bowser's Castle 1T,52,Mario (Hakama),High-End,Coin Box,0
+SNES Mario Circuit 3R,52,Mario (Hakama),High-End,Coin Box,0
+3DS Rosalina's Ice World T,53,Rosalina (Halloween),High-End,Dash Ring,1
+DS DK Pass R/T,53,Rosalina (Halloween),High-End,Dash Ring,0
+SNES Choco Island 2,53,Rosalina (Halloween),High-End,Dash Ring,0
+SNES Rainbow Road R/T,53,Rosalina (Halloween),High-End,Dash Ring,0
+DS Luigi's Mansion,53,Rosalina (Halloween),High-End,Dash Ring,0
+New York Minute 3T,53,Rosalina (Halloween),High-End,Dash Ring,0
+SNES Ghost Valley 1,53,Rosalina (Halloween),High-End,Dash Ring,0
+SNES Ghost Valley 1T,53,Rosalina (Halloween),High-End,Dash Ring,0
+Wii Maple Treeway R,53,Rosalina (Halloween),High-End,Dash Ring,0
+3DS Toad Circuit R,54,Peach (Vacation),High-End,Coin Box,0
+N64 Koopa Troopa Beach R/T,54,Peach (Vacation),High-End,Coin Box,0
+N64 Koopa Troopa Beach T,54,Peach (Vacation),High-End,Coin Box,0
+N64 Royal Raceway R,54,Peach (Vacation),High-End,Coin Box,0
+SNES Mario Circuit 1R,54,Peach (Vacation),High-End,Coin Box,0
+3DS Cheep Cheep Lagoon R/T,54,Peach (Vacation),High-End,Coin Box,0
+3DS Daisy Hills T,54,Peach (Vacation),High-End,Coin Box,0
+3DS Mario Circuit R,54,Peach (Vacation),High-End,Coin Box,0
+Paris Promenade 2R,54,Peach (Vacation),High-End,Coin Box,0
+SNES Mario Circuit 3,54,Peach (Vacation),High-End,Coin Box,0
+3DS Mario Circuit R/T,55,Mario (Santa),High-End,Fire Flower,0
+3DS Rosalina's Ice World T,55,Mario (Santa),High-End,Fire Flower,0
+DS DK Pass,55,Mario (Santa),High-End,Fire Flower,0
+Merry Mountain R,55,Mario (Santa),High-End,Fire Flower,0
+SNES Rainbow Road R,55,Mario (Santa),High-End,Fire Flower,0
+SNES Vanilla Lake 1T,55,Mario (Santa),High-End,Fire Flower,0
+Paris Promenade R,55,Mario (Santa),High-End,Fire Flower,0
+SNES Mario Circuit 1R,55,Mario (Santa),High-End,Fire Flower,0
+SNES Mario Circuit 1R/T,55,Mario (Santa),High-End,Fire Flower,0
+SNES Rainbow Road T,55,Mario (Santa),High-End,Fire Flower,0
+3DS Rainbow Road R/T,56,Pink Gold Peach,High-End,Coin Box,1
+N64 Choco Mountain,56,Pink Gold Peach,High-End,Coin Box,1
+N64 Kalimari Desert 2R,56,Pink Gold Peach,High-End,Coin Box,1
+N64 Royal Raceway T,56,Pink Gold Peach,High-End,Coin Box,1
+RMX Choco Island 2R,56,Pink Gold Peach,High-End,Coin Box,1
+DS Luigi's Mansion T,56,Pink Gold Peach,High-End,Coin Box,0
+RMX Choco Island 1,56,Pink Gold Peach,High-End,Coin Box,0
+3DS Rainbow Road T,56,Pink Gold Peach,High-End,Coin Box,0
+DS Waluigi Pinball R/T,56,Pink Gold Peach,High-End,Coin Box,0
+GCN Yoshi Circuit R/T,56,Pink Gold Peach,High-End,Coin Box,0
+SNES Rainbow Road R/T,56,Pink Gold Peach,High-End,Coin Box,0
+GBA Sunset Wilds R/T,57,Daisy (Holiday Cheer),High-End,Lucky Seven,1
+SNES Donut Plains 2R/T,57,Daisy (Holiday Cheer),High-End,Lucky Seven,1
+3DS Toad Circuit R/T,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+London Loop,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+N64 Koopa Troopa Beach R,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+3DS Daisy Hills R,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+3DS Shy Guy Bazaar T,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+Merry Mountain R,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+Tokyo Blur 3T,57,Daisy (Holiday Cheer),High-End,Lucky Seven,0
+Merry Mountain T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,1
+GCN Dino Dino Jungle,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+GCN Yoshi Circuit T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+London Loop 2R/T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+RMX Rainbow Road 1R,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+RMX Rainbow Road 1T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+N64 Koopa Troopa Beach R/T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+SNES Vanilla Lake 1T,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+Tokyo Blur 3R,58,Yoshi (Reindeer),High-End,Yoshi's Egg,0
+N64 Kalimari Desert 2,59,Pauline (Party Time),High-End,Coin Box,1
+3DS Neo Bowser City R/T,59,Pauline (Party Time),High-End,Coin Box,0
+3DS Rainbow Road R,59,Pauline (Party Time),High-End,Coin Box,0
+N64 Royal Raceway,59,Pauline (Party Time),High-End,Coin Box,0
+New York Minute 3,59,Pauline (Party Time),High-End,Coin Box,0
+London Loop 2R/T,59,Pauline (Party Time),High-End,Coin Box,0
+N64 Frappe Snowland R,59,Pauline (Party Time),High-End,Coin Box,0
+SNES Rainbow Road,59,Pauline (Party Time),High-End,Coin Box,0
+RMX Rainbow Road 1,60,Mario (Happi),High-End,Bob-omb Cannon,1
+Tokyo Blur 4T,60,Mario (Happi),High-End,Bob-omb Cannon,1
+Tokyo Blur R,60,Mario (Happi),High-End,Bob-omb Cannon,0
+3DS Rainbow Road,60,Mario (Happi),High-End,Bob-omb Cannon,0
+3DS Rock Rock Mountain R,60,Mario (Happi),High-End,Bob-omb Cannon,0
+N64 Koopa Troopa Beach T,60,Mario (Happi),High-End,Bob-omb Cannon,0
+SNES Mario Circuit 2,60,Mario (Happi),High-End,Bob-omb Cannon,0
+SNES Mario Circuit 2R,60,Mario (Happi),High-End,Bob-omb Cannon,0
+Berlin Byways 2R/T,61,Toad (Party Time),High-End,Mushroom Cannon,1
+Wii Maple Treeway,61,Toad (Party Time),High-End,Mushroom Cannon,1
+SNES Choco Island 2R/T,61,Toad (Party Time),High-End,Mushroom Cannon,0
+SNES Mario Circuit 2R/T,61,Toad (Party Time),High-End,Mushroom Cannon,0
+3DS Toad Circuit R,61,Toad (Party Time),High-End,Mushroom Cannon,0
+3DS Toad Circuit R/T,61,Toad (Party Time),High-End,Mushroom Cannon,0
+N64 Koopa Troopa Beach R,61,Toad (Party Time),High-End,Mushroom Cannon,0
+Tokyo Blur,61,Toad (Party Time),High-End,Mushroom Cannon,0
+RMX Choco Island 1R,62,Peach (Wintertime),High-End,Dash Ring,1
+N64 Frappe Snowland R/T,62,Peach (Wintertime),High-End,Dash Ring,0
+N64 Royal Raceway T,62,Peach (Wintertime),High-End,Dash Ring,0
+Tokyo Blur 4R,62,Peach (Wintertime),High-End,Dash Ring,0
+3DS Mario Circuit R/T,62,Peach (Wintertime),High-End,Dash Ring,0
+GCN Yoshi Circuit T,62,Peach (Wintertime),High-End,Dash Ring,0
+N64 Frappe Snowland,62,Peach (Wintertime),High-End,Dash Ring,0
+N64 Frappe Snowland T,62,Peach (Wintertime),High-End,Dash Ring,0
+SNES Choco Island 2T,62,Peach (Wintertime),High-End,Dash Ring,0
+Berlin Byways 2R,63,Penguin Luigi,High-End,Ice Flower,1
+Merry Mountain,63,Penguin Luigi,High-End,Ice Flower,1
+RMX Rainbow Road 1R/T,63,Penguin Luigi,High-End,Ice Flower,1
+SNES Donut Plains 2T,63,Penguin Luigi,High-End,Ice Flower,1
+RMX Choco Island 1R,63,Penguin Luigi,High-End,Ice Flower,0
+RMX Mario Circuit 1R,63,Penguin Luigi,High-End,Ice Flower,0
+SNES Koopa Troopa Beach 2,63,Penguin Luigi,High-End,Ice Flower,0
+SNES Vanilla Lake 1,63,Penguin Luigi,High-End,Ice Flower,0
+3DS Rosalina's Ice World T,63,Penguin Luigi,High-End,Ice Flower,0
+DS DK Pass,63,Penguin Luigi,High-End,Ice Flower,0
+DS DK Pass R,63,Penguin Luigi,High-End,Ice Flower,0
+DS DK Pass R/T,63,Penguin Luigi,High-End,Ice Flower,0
+RMX Rainbow Road 1T,63,Penguin Luigi,High-End,Ice Flower,0
+SNES Mario Circuit 2R/T,63,Penguin Luigi,High-End,Ice Flower,0
+SNES Koopa Troopa Beach 2T,64,Ice Mario,High-End,Ice Flower,1
+3DS Rainbow Road R/T,64,Ice Mario,High-End,Ice Flower,0
+3DS Rosalina's Ice World R,64,Ice Mario,High-End,Ice Flower,0
+SNES Donut Plains 2R,64,Ice Mario,High-End,Ice Flower,0
+SNES Vanilla Lake 1R,64,Ice Mario,High-End,Ice Flower,0
+Vancouver Velocity T,64,Ice Mario,High-End,Ice Flower,0
+3DS Neo Bowser City R/T,64,Ice Mario,High-End,Ice Flower,0
+3DS Rainbow Road R,64,Ice Mario,High-End,Ice Flower,0
+N64 Frappe Snowland R/T,64,Ice Mario,High-End,Ice Flower,0
+SNES Rainbow Road R,64,Ice Mario,High-End,Ice Flower,0
+SNES Vanilla Lake 1,64,Ice Mario,High-End,Ice Flower,0
+Paris Promenade 2,65,Baby Peach (Cherub),High-End,Heart,1
+RMX Choco Island 2T,65,Baby Peach (Cherub),High-End,Heart,1
+RMX Rainbow Road 2T,65,Baby Peach (Cherub),High-End,Heart,1
+SNES Donut Plains 2,65,Baby Peach (Cherub),High-End,Heart,1
+SNES Choco Island 1R,65,Baby Peach (Cherub),High-End,Heart,0
+SNES Choco Island 1T,65,Baby Peach (Cherub),High-End,Heart,0
+SNES Donut Plains 2R/T,65,Baby Peach (Cherub),High-End,Heart,0
+RMX Choco Island 1R,65,Baby Peach (Cherub),High-End,Heart,0
+SNES Choco Island 2,65,Baby Peach (Cherub),High-End,Heart,0
+SNES Donut Plains 2R,65,Baby Peach (Cherub),High-End,Heart,0
+N64 Choco Mountain R,66,Rosalina (Aurora),High-End,Ice Flower,1
+N64 Choco Mountain T,66,Rosalina (Aurora),High-End,Ice Flower,1
+Berlin Byways 2R,66,Rosalina (Aurora),High-End,Ice Flower,0
+RMX Rainbow Road 1,66,Rosalina (Aurora),High-End,Ice Flower,0
+SNES Vanilla Lake 1R/T,66,Rosalina (Aurora),High-End,Ice Flower,0
+Vancouver Velocity R,66,Rosalina (Aurora),High-End,Ice Flower,0
+3DS Rainbow Road R/T,66,Rosalina (Aurora),High-End,Ice Flower,0
+RMX Mario Circuit 1R,66,Rosalina (Aurora),High-End,Ice Flower,0
+GBA Sunset Wilds R,67,Mario (Classic),High-End,Triple Mushrooms,0
+GBA Sunset Wilds R/T,67,Mario (Classic),High-End,Triple Mushrooms,0
+RMX Mario Circuit 1T,67,Mario (Classic),High-End,Triple Mushrooms,0
+Tokyo Blur 4T,67,Mario (Classic),High-End,Triple Mushrooms,0
+London Loop T,67,Mario (Classic),High-End,Triple Mushrooms,0
+RMX Mario Circuit 1,67,Mario (Classic),High-End,Triple Mushrooms,0
+RMX Mario Circuit 1R/T,67,Mario (Classic),High-End,Triple Mushrooms,0
+Wii Maple Treeway T,68,Luigi (Classic),High-End,Lucky Seven,1
+GBA Sunset Wilds,68,Luigi (Classic),High-End,Lucky Seven,0
+Merry Mountain,68,Luigi (Classic),High-End,Lucky Seven,0
+DS Luigi's Mansion R/T,68,Luigi (Classic),High-End,Lucky Seven,0
+London Loop,68,Luigi (Classic),High-End,Lucky Seven,0
+SNES Donut Plains 1R/T,68,Luigi (Classic),High-End,Lucky Seven,0
+Berlin Byways 2R/T,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Paris Promenade 2,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+RMX Choco Island 2R,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Tokyo Blur T,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Berlin Byways 2R,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+RMX Choco Island 1,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+RMX Mario Circuit 1T,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Tokyo Blur R,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Vancouver Velocity T,69,Baby Rosalina (Detective),High-End,Dash Ring,0
+Wii Maple Treeway T,70,Yoshi (Egg Hunt),High-End,Yoshi's Egg,0
+3DS Daisy Hills,70,Yoshi (Egg Hunt),High-End,Yoshi's Egg,0
+GBA Sunset Wilds R,70,Yoshi (Egg Hunt),High-End,Yoshi's Egg,0
+Tokyo Blur T,70,Yoshi (Egg Hunt),High-End,Yoshi's Egg,0
+GBA Sunset Wilds T,71,Black Yoshi,High-End,Double Bob-ombs,1
+Wii DK Summit R,71,Black Yoshi,High-End,Double Bob-ombs,1
+N64 Choco Mountain T,71,Black Yoshi,High-End,Double Bob-ombs,0
+SNES Koopa Troopa Beach 2T,71,Black Yoshi,High-End,Double Bob-ombs,0
+GBA Sunset Wilds,71,Black Yoshi,High-End,Double Bob-ombs,0
+Paris Promenade 2,71,Black Yoshi,High-End,Double Bob-ombs,0
+SNES Ghost Valley 1R,71,Black Yoshi,High-End,Double Bob-ombs,0
+GBA Sunset Wilds T,72,Builder Mario,High-End,Hammer,0
+SNES Choco Island 2R/T,72,Builder Mario,High-End,Hammer,0
+SNES Koopa Troopa Beach 2T,72,Builder Mario,High-End,Hammer,0
+N64 Royal Raceway R/T,73,Builder Toad,High-End,Bob-omb Cannon,1
+Wii DK Summit T,73,Builder Toad,High-End,Bob-omb Cannon,1
+Merry Mountain T,73,Builder Toad,High-End,Bob-omb Cannon,0
+RMX Rainbow Road 1R/T,73,Builder Toad,High-End,Bob-omb Cannon,0
+GCN Dino Dino Jungle T,73,Builder Toad,High-End,Bob-omb Cannon,0
+SNES Vanilla Lake 1R/T,73,Builder Toad,High-End,Bob-omb Cannon,0
+Tokyo Blur 4T,73,Builder Toad,High-End,Bob-omb Cannon,0
+RMX Choco Island 2,74,Daisy (Fairy),High-End,Heat,1
+Wii Maple Treeway,74,Daisy (Fairy),High-End,Heat,0
+SNES Choco Island 2R,74,Daisy (Fairy),High-End,Heat,0
+SNES Vanilla Lake 1R,74,Daisy (Fairy),High-End,Heat,0
+N64 Choco Mountain,75,Mario (Chef),High-End,Lucky Seven,0
+N64 Choco Mountain R,75,Mario (Chef),High-End,Lucky Seven,0
+SNES Choco Island 1,75,Mario (Chef),High-End,Lucky Seven,0
+Wii DK Summit R,75,Mario (Chef),High-End,Lucky Seven,0
+SNES Donut Plains 1,75,Mario (Chef),High-End,Lucky Seven,0
+RMX Rainbow Road 2,76,Peach (Wedding),High-End,Triple Mushrooms,1
+RMX Choco Island 2,76,Peach (Wedding),High-End,Triple Mushrooms,0
+RMX Choco Island 2T,76,Peach (Wedding),High-End,Triple Mushrooms,0
+GBA Sunset Wilds T,76,Peach (Wedding),High-End,Triple Mushrooms,0
+N64 Royal Raceway,76,Peach (Wedding),High-End,Triple Mushrooms,0
+N64 Royal Raceway R,76,Peach (Wedding),High-End,Triple Mushrooms,0
+N64 Royal Raceway T,77,Rosalina (Swimwear),High-End,Coin Box,0
+RMX Rainbow Road 1,77,Rosalina (Swimwear),High-End,Coin Box,0
+SNES Choco Island 1,77,Rosalina (Swimwear),High-End,Coin Box,0
+SNES Choco Island 1T,77,Rosalina (Swimwear),High-End,Coin Box,0
+SNES Donut Plains 1T,77,Rosalina (Swimwear),High-End,Coin Box,0
+SNES Koopa Troopa Beach 2,77,Rosalina (Swimwear),High-End,Coin Box,0
+DS Airship Fortress,78,Mario (Swimwear),High-End,Dash Ring,1
+N64 Kalimari Desert 2T,79,Captain Toad,High-End,Hammer,0
+GBA Bowser's Castle 1,79,Captain Toad,High-End,Hammer,0
+Merry Mountain,79,Captain Toad,High-End,Hammer,0
+N64 Choco Mountain,79,Captain Toad,High-End,Hammer,0
+N64 Choco Mountain R,79,Captain Toad,High-End,Hammer,0
+RMX Choco Island 2,79,Captain Toad,High-End,Hammer,0
+Wii DK Summit R,79,Captain Toad,High-End,Hammer,0
+Wii DK Summit,80,Toadette (Explorer),High-End,Double Bob-ombs,1
+N64 Kalimari Desert 2R,80,Toadette (Explorer),High-End,Double Bob-ombs,0
+GBA Sunset Wilds R/T,80,Toadette (Explorer),High-End,Double Bob-ombs,0
+N64 Choco Mountain T,80,Toadette (Explorer),High-End,Double Bob-ombs,0
+N64 Kalimari Desert R,80,Toadette (Explorer),High-End,Double Bob-ombs,0
+DS Airship Fortress,81,Daisy (Yukata),High-End,Fire Flower,0
+Tokyo Blur 4,81,Daisy (Yukata),High-End,Fire Flower,0
+3DS Shy Guy Bazaar R,81,Daisy (Yukata),High-End,Fire Flower,0
+RMX Rainbow Road 1R,81,Daisy (Yukata),High-End,Fire Flower,0
+SNES Ghost Valley 1R/T,81,Daisy (Yukata),High-End,Fire Flower,0
+RMX Rainbow Road 2T,82,Mario (SNES),High-End,Triple Mushrooms,0
+New York Minute 3,82,Mario (SNES),High-End,Triple Mushrooms,0
+N64 Kalimari Desert 2,83,Mario (Sunshine),High-End,Giant Banana,0
+SNES Donut Plains 2T,83,Mario (Sunshine),High-End,Giant Banana,0
+Paris Promenade T,83,Mario (Sunshine),High-End,Giant Banana,0
+RMX Rainbow Road 2T,83,Mario (Sunshine),High-End,Giant Banana,0
+3DS Neo Bowser City R,84,Mario (Halloween),High-End,Lucky Seven,0
+DS Luigi's Mansion T,84,Mario (Halloween),High-End,Lucky Seven,0
+Merry Mountain T,84,Mario (Halloween),High-End,Lucky Seven,0
+Wii Maple Treeway,84,Mario (Halloween),High-End,Lucky Seven,0
+N64 Royal Raceway R/T,85,Peach (Halloween),High-End,Fire Flower,0
+Paris Promenade 2T,85,Peach (Halloween),High-End,Fire Flower,0
+RMX Rainbow Road 2,85,Peach (Halloween),High-End,Fire Flower,0
+3DS Rosalina's Ice World R,85,Peach (Halloween),High-End,Fire Flower,0
+DS Airship Fortress,85,Peach (Halloween),High-End,Fire Flower,0
+Wii Maple Treeway T,85,Peach (Halloween),High-End,Fire Flower,0
+3DS Rosalina's Ice World,86,Peach (Explorer),High-End,Bob-omb Cannon,1
+SNES Donut Plains 2,86,Peach (Explorer),High-End,Bob-omb Cannon,0
+Wii DK Summit,86,Peach (Explorer),High-End,Bob-omb Cannon,0
+N64 Kalimari Desert 2,86,Peach (Explorer),High-End,Bob-omb Cannon,0
+N64 Kalimari Desert 2T,86,Peach (Explorer),High-End,Bob-omb Cannon,0
+DS Airship Fortress T,87,Builder Luigi,High-End,Hammer,0
+Paris Promenade 2T,87,Builder Luigi,High-End,Hammer,0
+RMX Rainbow Road 1R/T,87,Builder Luigi,High-End,Hammer,0
+3DS Rosalina's Ice World,88,Fire Rosalina,High-End,Fire Flower,0
+DS Airship Fortress R,88,Fire Rosalina,High-End,Fire Flower,0
+DS Airship Fortress T,88,Fire Rosalina,High-End,Fire Flower,0
+N64 Kalimari Desert 2R,88,Fire Rosalina,High-End,Fire Flower,0
+Wii DK Summit T,89,Luigi (Lederhosen),High-End,Triple Mushrooms,0
+Berlin Byways 2R/T,89,Luigi (Lederhosen),High-End,Triple Mushrooms,0
+RMX Choco Island 2T,89,Luigi (Lederhosen),High-End,Triple Mushrooms,0
+N64 Royal Raceway R/T,90,Cat Peach,High-End,Super Bell,0
+RMX Rainbow Road 2,90,Cat Peach,High-End,Super Bell,0
+SNES Donut Plains 2,90,Cat Peach,High-End,Super Bell,0
+GCN Dino Dino Jungle,91,Cat Toad,High-End,Super Bell,0
+Tokyo Blur 4,91,Cat Toad,High-End,Super Bell,0
+SNES Donut Plains 2R/T,92,Pauline (Rose),High-End,Fire Flower,0
+SNES Donut Plains 2T,92,Pauline (Rose),High-End,Fire Flower,0
+Tokyo Blur 4R,93,Penguin Toad,High-End,Dash Ring,0
+Wii DK Summit,93,Penguin Toad,High-End,Dash Ring,0
+Wii DK Summit T,94,Mario (Racing),High-End,Triple Mushrooms,0
+3DS Neo Bowser City T,99,Dry Bowser,High-End,Bowser's Shell,0
+RMX Choco Island 2R,100,King Boo (Luigi's Mansion),High-End,Bob-omb Cannon,0
+3DS Neo Bowser City R,101,Shy Guy (Pastry Chef),High-End,Mushroom Cannon,0
+SNES Choco Island 1R,101,Shy Guy (Pastry Chef),High-End,Mushroom Cannon,0
+3DS Neo Bowser City T,102,Waluigi (Bus Driver),High-End,Triple Bananas,0
+Vancouver Velocity R,104,Wario (Hiker),High-End,Bob-omb Cannon,0
+GBA Bowser's Castle 2T,105,Dry Bones (Gold),High-End,Coin Box,0
+DS Airship Fortress R,108,Dry Bowser (Gold),High-End,Bob-omb Cannon,0
+3DS Rosalina's Ice World,110,Nabbit,High-End,Wild West Tour,0
