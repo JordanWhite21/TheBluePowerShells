@@ -1,4 +1,4 @@
-course_name,driver_id_1,special_skill_1,rarity_1,win_loss_1,driver_id_2,rarity_2,special_skill_2,win_loss_2,driver_id_3,rarity_3,special_skill_3,win_loss_3,driver_id_4,rarity_4,special_skill_4,win_loss_4,driver_id_5,rarity_5,special_skill_5,win_loss_5
+course_name,driver_id_1,rarity_1,special_skill_1,win_loss_1,driver_id_2,rarity_2,special_skill_2,win_loss_2,driver_id_3,rarity_3,special_skill_3,win_loss_3,driver_id_4,rarity_4,special_skill_4,win_loss_4,driver_id_5,rarity_5,special_skill_5,win_loss_5
 3DS Cheep Cheep Lagoon,2.0,Normal,Bubble,1,22.0,Super,Dash Ring,0,35.0,Super,Bob-omb Cannon,0,44.0,Super,Birdo's Egg,0,78.0,High-End,Dash Ring,0
 3DS Cheep Cheep Lagoon R,11.0,Normal,Bubble,1,19.0,Super,Heart,0,36.0,Super,Fire Flower,0,79.0,High-End,Hammer,0,106.0,High-End,Banana Barrels,0
 3DS Cheep Cheep Lagoon R/T,6.0,Normal,Triple Green Shells,1,41.0,Super,Boomerang Flower,0,54.0,High-End,Coin Box,0,60.0,High-End,Bob-omb Cannon,0,70.0,High-End,Yoshi's Egg,0
