@@ -22,5 +22,5 @@ Last, but not least, you can visit the Courses page! On this page,  you will fin
 
 ## Machine Learning Models
 
-We used a decision tree model for our final machine learning model. This model takes inputs of Course, Rarity, and Special Skill to determine if the combination would result in a winning player. To train this model we encoded course, rarity, and special skill from our data table. Once the model was trained, the user can input a course ID, Rarity ID, and Special Skill ID and the model will output a 1 for a winning combination or a 0 for a losing combination. 
+We used a decision tree model for our final machine learning model. This model takes inputs of Course, Rarity, and Special Skill to determine if the combination would result in a winning player. To train this model we encoded course, rarity, and special skill from our data table. Once the model was trained, the user can input a course ID, Rarity ID, and Special Skill ID and the model will output "1" for a winning combination or a "0" for a losing combination. Our model's accuracy score was 66%. Ideally, we would've liked to unencode our variables so that a user could enter the names of courses, rarities, and special skills but current state the model only works with numberical inputs. 
 
