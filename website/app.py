@@ -1,9 +1,11 @@
 #import libraries
-from flask import Flask, render_template,request
+import pickle
+import numpy as np
+from flask import Flask, render_template, request
 
 #initialize the flask app
 app = Flask(__name__)
-model = "Final Project_Decision Tree Model-Predictions-Confusion Matrix.ipynb"
+model = pickle.load(open('model.pkl','rb'))
 
 #default page of our web-app
 @app.route('/')
